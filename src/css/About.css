@@ -1,0 +1,66 @@
+.page_L{
+  height: 145px;
+  width: 241px;
+  overflow: hidden;
+  margin-bottom: 4px;
+}
+.L_top{
+  background: url(../images/About-l_top.jpg) center center no-repeat;
+    width: 100%;
+    height: 145px;
+    background-size: 100%  100%;
+    overflow: hidden;
+    clear: both;
+    text-align: center;
+    font-size: 28px;
+    line-height: 38px;
+    padding-top: 30px;
+    color: #FFF;
+    white-space: nowrap;
+}
+#Information-img,#Product-img,#Talent-img,#Contact-img{
+  background: url(../images/Information-XINWEN.jpg) center center no-repeat;
+}
+#Exhibit-img{
+  background: url(../images/Exhibit-l-logo.jpg) center center no-repeat;
+}
+
+.About-tu-l{
+    overflow: hidden;
+    padding-left: 8px;
+}
+.About-tu-l img{
+  width: 226px;
+}
+.About-l-font{
+  width: 225px;
+  padding: 10px 10px 10px 6px;
+  font-size: 14px;
+  line-height: 28px;
+}
+/* r-top */
+.About-r-top{
+  height: 44px;
+  border-bottom: 1px solid #ccc;
+}
+.About-h3 h3{
+  background: url('../images/tic01.jpg') 4px center no-repeat;
+  font-size: 18px;
+  line-height: 42px;
+  font-weight: normal;
+}
+.About-r-top-r{
+  color: #666;
+  font-size: 12px;
+  margin-top: 10px;
+}
+.About-r-top-r a{
+  text-decoration: none;
+  color: #666;
+}
+.About-fonttext{
+  font: 13px/1.5 sans-serif;
+  padding: 10px 15px 30px 15px;
+  font-family: "微软雅黑";
+  color: #444 !important;
+}

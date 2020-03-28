@@ -1,0 +1,49 @@
+#page {
+	margin: 40px 5%;
+	text-align: center;
+	font-size: 14px;
+	clear: both;
+}
+#page .scott {
+	display: inline-block;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#page .scott span, #page .scott a:hover {
+	background-color: #222;
+	border: 1px solid #222;
+	color: #fff;
+	border-radius: 4px;
+	display: inline;
+	float: left;
+	margin: 0 2px;
+	padding: 0 16px;
+	height: 36px;
+	line-height: 36px;
+	text-decoration: none;
+}
+#page .scott a, #page .scott span.morepage {
+	padding: 0 16px;
+	height: 36px;
+	line-height: 36px;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	margin: 0 2px;
+	display: inline;
+	float: left;
+	color: #222;
+}
+#page .scott span.morepage input {
+	width: 25px;
+	height: 16px;
+	border: 1px solid #ccc;
+	background: none;
+	margin-top: 8px;
+	float: left;
+	margin-right: 5px;
+	padding-left: 3px;
+}
+#page .scott span.morepage {
+	color: #222;
+}
